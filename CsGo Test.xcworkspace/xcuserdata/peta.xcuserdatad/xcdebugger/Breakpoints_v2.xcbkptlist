@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31B5B2CB-BC84-420C-863F-9E8F366B0551"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56A99825-76E1-49AF-B2BE-E1FDC9B558FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CsGo Test/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "56A99825-76E1-49AF-B2BE-E1FDC9B558FF - 1764d87d4371964f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CsGo_Test.AppDelegate.__deallocating_deinit"
+                  moduleName = "CsGo Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peta/IosProjects/Cs-Go-Assistant-IOS/CsGo%20Test/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "56A99825-76E1-49AF-B2BE-E1FDC9B558FF - 87ff2f3694e5c8f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CsGo_Test.AppDelegate.__allocating_init() -&gt; CsGo_Test.AppDelegate"
+                  moduleName = "CsGo Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peta/IosProjects/Cs-Go-Assistant-IOS/CsGo%20Test/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "56A99825-76E1-49AF-B2BE-E1FDC9B558FF - f4e3b1322d2ff04c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CsGo_Test.AppDelegate.init() -&gt; CsGo_Test.AppDelegate"
+                  moduleName = "CsGo Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peta/IosProjects/Cs-Go-Assistant-IOS/CsGo%20Test/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "56A99825-76E1-49AF-B2BE-E1FDC9B558FF - de058f8432cdbf8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "CsGo Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/peta/IosProjects/Cs-Go-Assistant-IOS/CsGo%20Test/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF8E9701-BB8F-49BD-B424-1228075CFA1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CsGo Test/Controllers/Search/SearchResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "performSearch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

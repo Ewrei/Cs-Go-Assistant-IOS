@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.3.0)
+  - FBSDKCoreKit/Basics (6.5.2)
+  - FBSDKCoreKit/Core (6.5.2):
+    - FBSDKCoreKit/Basics
+  - FBSDKCoreKit/Swift (6.5.2):
+    - FBSDKCoreKit/Core
+  - Kingfisher (5.15.6):
+    - Kingfisher/Core (= 5.15.6)
+  - Kingfisher/Core (5.15.6)
+  - SPStorkController (1.8.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - FBSDKCoreKit/Swift
+  - Kingfisher
+  - SPStorkController
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FBSDKCoreKit
+    - Kingfisher
+    - SPStorkController
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  FBSDKCoreKit: ada5c8a05188daefc9addb985c52b8a1b26da519
+  Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
+  SPStorkController: d809adb3e333ec07760f8bf1b4c628a2801675ac
+
+PODFILE CHECKSUM: f453a98b4a548f5ed74f166d5b83bd45a944f3fc
+
+COCOAPODS: 1.8.4
